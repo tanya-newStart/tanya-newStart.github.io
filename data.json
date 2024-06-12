@@ -75,6 +75,44 @@
       "id": 6
     }
   ],
+  "imagesClothes": [
+    {
+      "name": "skjorte",
+      "url": "./assets/shirt.png",
+      "back-cover": "./assets/back.jpg",
+      "id": 0
+    },
+    {
+      "name": "kjole",
+      "url": "./assets/dress.png",
+      "back-cover": "./assets/back.jpg",
+      "id": 1
+    },
+    {
+      "name": "gummistøvler",
+      "url": "./assets/rainboots.png",
+      "back-cover": "./assets/back.jpg",
+      "id": 2
+    },
+    {
+      "name": "jakke",
+      "url": "./assets/jacket.png",
+      "back-cover": "./assets/back.jpg",
+      "id": 3
+    },
+    {
+      "name": "sokker",
+      "url": "./assets/socks.png",
+      "back-cover": "./assets/back.jpg",
+      "id": 4
+    },
+    {
+      "name": "halstørklæde",
+      "url": "./assets/scarf.png",
+      "back-cover": "./assets/back.jpg",
+      "id": 5
+    }
+  ],
   "animals": [
     { "word": "ræv", "id": 0 },
     { "word": "hund", "id": 2 },
@@ -90,5 +128,14 @@
     { "word": "sne", "id": 3 },
     { "word": "tåge", "id": 4 },
     { "word": "storm", "id": 6 }
+  ],
+  "clothes": [
+    { "word": "skjorte", "id": 0 },
+    { "word": "kjole", "id": 1 },
+    { "word": "gummistøvler", "id": 2 },
+    { "word": "jakke", "id": 3 },
+    { "word": "sokker", "id": 4 },
+    { "word": "halstørklæde", "id": 5 },
+    { "word": "pyjamas", "id": 6 }
   ]
 }
