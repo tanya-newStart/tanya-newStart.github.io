@@ -78,37 +78,37 @@
   "imagesClothes": [
     {
       "name": "skjorte",
-      "url": "./assets/shirt.png",
+      "url": "./assets/shirt.jpg",
       "back-cover": "./assets/back.jpg",
       "id": 0
     },
     {
       "name": "kjole",
-      "url": "./assets/dress.png",
+      "url": "./assets/dress.jpg",
       "back-cover": "./assets/back.jpg",
       "id": 1
     },
     {
       "name": "gummistøvler",
-      "url": "./assets/rainboots.png",
+      "url": "./assets/rainboots.jpg",
       "back-cover": "./assets/back.jpg",
       "id": 2
     },
     {
       "name": "jakke",
-      "url": "./assets/jacket.png",
+      "url": "./assets/jacket.jpg",
       "back-cover": "./assets/back.jpg",
       "id": 3
     },
     {
       "name": "sokker",
-      "url": "./assets/socks.png",
+      "url": "./assets/socks.jpg",
       "back-cover": "./assets/back.jpg",
       "id": 4
     },
     {
       "name": "halstørklæde",
-      "url": "./assets/scarf.png",
+      "url": "./assets/scarf.jpg",
       "back-cover": "./assets/back.jpg",
       "id": 5
     },
