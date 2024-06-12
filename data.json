@@ -111,6 +111,12 @@
       "url": "./assets/scarf.png",
       "back-cover": "./assets/back.jpg",
       "id": 5
+    },
+    {
+      "name": "pyjamas",
+      "url": "./assets/pj.jpg",
+      "back-cover": "./assets/back.jpg",
+      "id": 6
     }
   ],
   "animals": [
