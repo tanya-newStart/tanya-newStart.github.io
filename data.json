@@ -117,7 +117,7 @@
     { "danish": "ræv", "english": "fox", "id": 0 },
     { "danish": "hund", "english": "dog", "id": 1 },
     { "danish": "kat", "english": "cat", "id": 2 },
-    { "danish": "heste", "english": "horse", "id": 3 },
+    { "danish": "hest", "english": "horse", "id": 3 },
     { "danish": "bjørn", "english": "bear", "id": 4 },
     { "danish": "ørn", "english": "eagle", "id": 5 }
   ],
