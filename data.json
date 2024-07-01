@@ -114,27 +114,57 @@
     }
   ],
   "animals": [
-    { "danish": "ræv", "english": "fox", "id": 0 },
-    { "danish": "hund", "english": "dog", "id": 1 },
-    { "danish": "kat", "english": "cat", "id": 2 },
-    { "danish": "hest", "english": "horse", "id": 3 },
-    { "danish": "bjørn", "english": "bear", "id": 4 },
-    { "danish": "ørn", "english": "eagle", "id": 5 }
+    { "danish": "ræv", "english": "fox", "ukrainian": "лисиця", "id": 0 },
+    { "danish": "hund", "english": "dog", "ukrainian": "собака", "id": 1 },
+    { "danish": "kat", "english": "cat", "ukrainian": "кіт", "id": 2 },
+    { "danish": "hest", "english": "horse", "ukrainian": "кінь", "id": 3 },
+    { "danish": "bjørn", "english": "bear", "ukrainian": "ведмідь", "id": 4 },
+    { "danish": "ørn", "english": "eagle", "ukrainian": "орел", "id": 5 }
   ],
   "weather": [
-    { "danish": "sol", "english": "sun", "id": 0 },
-    { "danish": "overskyet", "english": "cloudy", "id": 1 },
-    { "danish": "regn", "english": "rain", "id": 2 },
-    { "danish": "sne", "english": "snow", "id": 3 },
-    { "danish": "tåge", "english": "fog", "id": 4 },
-    { "danish": "tordenvejr", "english": "thunderstorm", "id": 5 }
+    { "danish": "sol", "english": "sun", "ukrainian": "сонце", "id": 0 },
+    {
+      "danish": "overskyet",
+      "english": "cloudy",
+      "ukrainian": "хмарно",
+      "id": 1
+    },
+    { "danish": "regn", "english": "rain", "ukrainian": "дощ", "id": 2 },
+    { "danish": "sne", "english": "snow", "ukrainian": "сніг", "id": 3 },
+    { "danish": "tåge", "english": "fog", "ukrainian": "туман", "id": 4 },
+    {
+      "danish": "tordenvejr",
+      "english": "thunderstorm",
+      "ukrainian": "гроза",
+      "id": 5
+    }
   ],
   "clothes": [
-    { "danish": "skjorte", "english": "shirt", "id": 0 },
-    { "danish": "kjole", "english": "dress", "id": 1 },
-    { "danish": "gummistøvler", "english": "rain boots", "id": 2 },
-    { "danish": "jakke", "english": "jacket", "id": 3 },
-    { "danish": "sokker", "english": "socks", "id": 4 },
-    { "danish": "halstørklæde", "english": "scarf", "id": 5 }
+    {
+      "danish": "skjorte",
+      "english": "shirt",
+      "ukrainian": "сорочка",
+      "id": 0
+    },
+    { "danish": "kjole", "english": "dress", "ukrainian": "сукня", "id": 1 },
+    {
+      "danish": "gummistøvler",
+      "english": "rain boots",
+      "ukrainian": "гумові чоботи",
+      "id": 2
+    },
+    { "danish": "jakke", "english": "jacket", "ukrainian": "куртка", "id": 3 },
+    {
+      "danish": "sokker",
+      "english": "socks",
+      "ukrainian": "шкарпетки",
+      "id": 4
+    },
+    {
+      "danish": "halstørklæde",
+      "english": "scarf",
+      "ukrainian": "шарф",
+      "id": 5
+    }
   ]
 }
