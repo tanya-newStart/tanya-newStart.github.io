@@ -39,38 +39,38 @@
   ],
   "imagesAnimals": [
     {
-      "name": "fox",
-      "url": "./assets/fox.jpg",
+      "name": "guinea pig",
+      "url": "./assets/guinea_pig.png",
       "back-cover": "./assets/back.jpg",
       "id": 0
     },
     {
-      "name": "dog",
-      "url": "./assets/dog.jpg",
+      "name": "hedgehog",
+      "url": "./assets/hedgehog.png",
       "back-cover": "./assets/back.jpg",
       "id": 1
     },
     {
-      "name": "cat",
-      "url": "./assets/cat.jpg",
+      "name": "armadillo",
+      "url": "./assets/armadillo.png",
       "back-cover": "./assets/back.jpg",
       "id": 2
     },
     {
-      "name": "horse",
-      "url": "./assets/horse.jpg",
+      "name": "butterfly",
+      "url": "./assets/butterfly.png",
       "back-cover": "./assets/back.jpg",
       "id": 3
     },
     {
-      "name": "bear",
-      "url": "./assets/bear.jpg",
+      "name": "millipede",
+      "url": "./assets/millipede.png",
       "back-cover": "./assets/back.jpg",
       "id": 4
     },
     {
-      "name": "eagle",
-      "url": "./assets/eagle.jpg",
+      "name": "jellyfish",
+      "url": "./assets/jellyfish.png",
       "back-cover": "./assets/back.jpg",
       "id": 5
     }
@@ -114,12 +114,42 @@
     }
   ],
   "animals": [
-    { "danish": "ræv", "english": "fox", "ukrainian": "лисиця", "id": 0 },
-    { "danish": "hund", "english": "dog", "ukrainian": "собака", "id": 1 },
-    { "danish": "kat", "english": "cat", "ukrainian": "кіт", "id": 2 },
-    { "danish": "hest", "english": "horse", "ukrainian": "кінь", "id": 3 },
-    { "danish": "bjørn", "english": "bear", "ukrainian": "ведмідь", "id": 4 },
-    { "danish": "ørn", "english": "eagle", "ukrainian": "орел", "id": 5 }
+    {
+      "danish": "marsvin",
+      "english": "guinea pig",
+      "ukrainian": "морська свинка",
+      "id": 0
+    },
+    {
+      "danish": "pindsvin",
+      "english": "hedgehog",
+      "ukrainian": "їжак",
+      "id": 1
+    },
+    {
+      "danish": "bæltedyr",
+      "english": "armadillo",
+      "ukrainian": "броненосець",
+      "id": 2
+    },
+    {
+      "danish": "sommerfugl",
+      "english": "butterfly",
+      "ukrainian": "метелик",
+      "id": 3
+    },
+    {
+      "danish": "tusindben",
+      "english": "millipede",
+      "ukrainian": "багатоніжка",
+      "id": 4
+    },
+    {
+      "danish": "vandmand",
+      "english": "jellyfish",
+      "ukrainian": "медуза",
+      "id": 5
+    }
   ],
   "weather": [
     { "danish": "sol", "english": "sun", "ukrainian": "сонце", "id": 0 },
